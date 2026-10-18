@@ -1,0 +1,6 @@
+{
+  "name": "Maya Iyer · Stress-Test Lab",
+  "description": "Long/short equity manager Maya Iyer shows her fund against the benchmark in 2008, 2020 and 2022, with her five biggest losses on the balance sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
